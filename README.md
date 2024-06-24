@@ -1,4 +1,4 @@
-## Hello👋 I'm Chaitanya 👨‍💻 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KVSMRAJU&label=Views&color=blue&style=for-the-badge" alt="Chaitanya" /> </p>
+## Hello👋 I'm Chaitanya 👨‍💻 <p > <img src="https://komarev.com/ghpvc/?username=KVSMRAJU&label=Views&color=blue&style=for-the-badge" alt="Chaitanya" /> </p>
 
 I am a fullstack developer from India 🇮🇳 I am working as a Product Engineer at <b>Fluentgrid Limited</b> 
 

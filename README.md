@@ -1,7 +1,7 @@
-## Hello👋 I'm Chaitanya 👨‍💻 <p > <img src="https://komarev.com/ghpvc/?username=KVSMRAJU&label=Views&color=blue&style=for-the-badge" alt="Chaitanya" /> </p>
+## Hello👋 I'm Chaitanya 👨‍💻 
 
 I am a fullstack developer from India 🇮🇳 I am working as a Product Engineer at <b>Fluentgrid Limited</b> 
-
+<p > <img src="https://komarev.com/ghpvc/?username=KVSMRAJU&label=Views&color=blue&style=for-the-badge" alt="Chaitanya" /> </p>
 ### Currently I am working with ...
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Spring" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
